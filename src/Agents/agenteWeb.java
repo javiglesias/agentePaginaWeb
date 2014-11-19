@@ -3,7 +3,6 @@ package Agents;
 import jade.core.Agent;
 import jade.core.behaviours.CyclicBehaviour;
 import jade.core.behaviours.ParallelBehaviour;
-import java.util.Scanner;
 
 public class agenteWeb extends Agent 
 	{
